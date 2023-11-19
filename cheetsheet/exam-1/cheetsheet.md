@@ -193,7 +193,7 @@ $D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$
 
 $m...Masse \thinspace ([m] = kg)$
 
-$w_0 = \sqrt{D \over m}$
+$ω_0 = \sqrt{D \over m}$
 
 $ω = {2 \pi \over T}$
 
