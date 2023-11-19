@@ -109,7 +109,7 @@ $g ... Erdbeschleunigung \thinspace ({[g] = {m \over s²}})$
 
 $F_G = {m * g}$
 
-# Periodendauer
+### Periodendauer
 
 $T ... Periodendauer \thinspace ({[T]} = s)$
 
