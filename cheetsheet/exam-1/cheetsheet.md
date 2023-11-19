@@ -25,7 +25,7 @@ $f = {1 \over T}$
 
 ### Winkelgeschwindigkeit
 
-$ω ... Winkelgeschwindigkeit \thinspace ({[ω] = {rad \over s}})$
+$ω ... Winkelgeschwindigkeit \thinspace bzw. \thinspace Kreisfrequenz \thinspace ({[ω] = {rad \over s}})$
 
 $ω = {2 \pi \over T}$
 
@@ -69,7 +69,7 @@ $\bigtriangleup y...Auslenkung \thinspace im \thinspace Moment \thinspace (Delta
 
 ### Winkelgeschwindigkeit
 
-$ω ... Winkelgeschwindigkeit \thinspace ({[ω] = {rad \over s}})$
+$ω ... Winkelgeschwindigkeit \thinspace bzw. \thinspace Kreisfrequenz \thinspace ({[ω] = {rad \over s}})$
 
 $ω = {2 \pi \over T}$
 
@@ -121,7 +121,7 @@ $T = 2 \pi {\sqrt m \over \sqrt D} = 2 \pi {\sqrt {m \over D}}$
 
 ### Winkelgeschwindigkeit
 
-$ω ... Winkelgeschwindigkeit \thinspace ({[ω] = {rad \over s}})$
+$ω ... Winkelgeschwindigkeit \thinspace bzw. \thinspace Kreisfrequenz \thinspace  ({[ω] = {rad \over s}})$
 
 $ω = {2 \pi \over T}$
 
@@ -181,9 +181,9 @@ $F = -mω² * y(t)$
 
 ### Winkelgeschwindigkeit & Eigenkreisfrequenz
 
-$ω ... Winkelgeschwindigkeit \thinspace ({[ω] = {rad \over s}})$
+$ω ... Winkelgeschwindigkeit \thinspace bzw. \thinspace Kreisfrequenz \thinspace  ({[ω] = {rad \over s}})$
 
-$ω_0...Winkelgeschwindigkeit \thinspace im \thinspace Moment \thinspace t=0 \thinspace i.e. \thinspace Eigenkreisfrequenz \thinspace ({[w_0] = {rad \over s}})$
+$ω_0...Winkelgeschwindigkeit \thinspace im \thinspace Moment \thinspace t=0 \thinspace bzw. \thinspace Eigenkreisfrequenz \thinspace ({[w_0] = {rad \over s}})$
 
 $D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$ 
 
