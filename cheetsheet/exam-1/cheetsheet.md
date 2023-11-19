@@ -199,7 +199,7 @@ $ω = {2 \pi \over T}$
 
 $ω = {2 \pi f}$
 
-$ω = {w_0² - \delta²}$
+$ω = {ω_0² - \delta²}$
 
 ### Auslenkungsfunktion
 
