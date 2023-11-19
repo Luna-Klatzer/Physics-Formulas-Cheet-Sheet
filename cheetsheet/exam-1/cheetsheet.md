@@ -145,7 +145,7 @@ $\varphi_0...Nullphasenwinkel \thinspace ([\varphi_0] = rad)$
 
 $y(t) = v * sin(ωt + \varphi_0) \thinspace (Mit \thinspace Nullphasenwinkel \thinspace Verschiebung)$
 
-$y(t) = v * sin(ωt) (Nur \over Weg)$
+$y(t) = v * sin(ωt) (Nur \thinspace Weg)$
 
 ### Beschleunigung der Auslenkung
 
