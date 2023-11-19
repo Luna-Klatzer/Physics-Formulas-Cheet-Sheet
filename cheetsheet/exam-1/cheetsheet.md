@@ -59,7 +59,7 @@ $f ... \mathnormal{Resonanzfrequenz} \thinspace ({[f] = {1 \over s}} = Hz)$
 
 ### Auslenkung & Amplitude
 
-Die Auslenkung ist die größte Entfernung zur Ruhelage/Gleichgewichtslage.
+Die Amplitude ist die größte Entfernung zur Ruhelage/Gleichgewichtslage.
 
 $y...Auslenkung \thinspace aus \thinspace Ruhelage \thinspace i.e. \thinspace Amplitude \thinspace ({[y] = m})$
 
@@ -91,7 +91,7 @@ $F = {m * a_y}$
 
 Beschreibt die Dehnbarkeit einer Feder (wenn D sehr klein => leicht denhbar, weiche Feder; wenn D sehr groß: schwer dehnbar, harte Feder).
 
-$D...Federkonstante ([D] = {[F] \over [y]} = {N \over m})$      
+$D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$      
 
 ### Federkraft (Hook'sches Gesetz)
 
@@ -114,3 +114,57 @@ $F_G = {m * g}$
 $T ... Periodendauer \thinspace ({[T]} = s)$
 
 $T = 2 \pi {\sqrt m \over \sqrt D} = 2 \pi {\sqrt {m \over D}}$
+
+## Harmonische Schwingungen & Kreisbewegung
+
+### Winkelgeschwindigkeit
+
+$ω ... Winkelgeschwindigkeit \thinspace ({[ω] = {rad \over s}})$
+
+$ω = {2 \pi \over T}$
+
+$ω = {2 \pi f}$
+
+### Winkel 
+
+$t...Zeit \thinspace ({[t] = s})$
+
+$\varphi = ω * t$
+
+### Auslenkung & Amplitude
+
+*Etwas anders als zu den Federpendeln oder Fadenpendels*
+
+$v...Auslenkung \thinspace aus \thinspace Ruhelage \thinspace i.e. \thinspace Amplitude \thinspace ({[v] = m})$
+
+$y(t)...Auslenkung \thinspace im \thinspace Moment \thinspace (Delta, \thinspace {[y] = m})$
+
+$\varphi_0...Nullphasenwinkel \thinspace ([\varphi_0] = rad)$
+
+$y(t) = v * sin(ωt + \varphi_0) \thinspace (Mit \thinspace Nullphasenwinkel \thinspace Verschiebung)$
+
+$y(t) = v * sin(ωt) (Nur Weg)$
+
+### Beschleunigung der Auslenkung
+
+$a(t)...Beschleunigung \thinspace im \thinspace Moment \thinspace t \thinspace ({[a(t)] = {m \over s²}})$
+
+$F_D...Federkraft \thinspace ([N] = {kg \over s²})$
+
+$D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$ 
+
+$a(t) = -v * ω * sin(ωt)$
+
+$a(t) = {F_D \over \ m}$
+
+$a(t) = {-D \over m} * y(t)$
+
+### Kraft
+
+$F...Kraft \thinspace ([N] = {kg \over s²})$
+
+$m...Masse \thinspace ([m] = kg)$
+
+$F = a(t) * m$
+
+$F = -mω² * y(t)$
