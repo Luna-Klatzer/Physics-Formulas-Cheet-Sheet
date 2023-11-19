@@ -139,7 +139,7 @@ $\varphi = ω * t$
 
 $v...Auslenkung \thinspace aus \thinspace Ruhelage \thinspace i.e. \thinspace Amplitude \thinspace ({[v] = m})$
 
-$y(t)...Auslenkung \thinspace im \thinspace Moment \thinspace (Delta, \thinspace {[y] = m})$
+$y(t)...Auslenkung \thinspace im \thinspace Moment \thinspace (Delta, \thinspace {[y(t)] = m})$
 
 $\varphi_0...Nullphasenwinkel \thinspace ([\varphi_0] = rad)$
 
@@ -170,3 +170,35 @@ $m...Masse \thinspace ([m] = kg)$
 $F = a(t) * m$
 
 $F = -mω² * y(t)$
+
+## Gedämpfte Schwingung
+
+### Winkelgeschwindigkeit & Eigenkreisfrequenz
+
+$ω ... Winkelgeschwindigkeit \thinspace ({[ω] = {rad \over s}})$
+
+$ω_0...Winkelgeschwindigkeit \thinspace im \thinspace Moment \thinspace t=0 \thinspace i.e. \thinspace Eigenkreisfrequenz ({[w_0] = {rad \over s}})$
+
+$D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$ 
+
+$m...Masse \thinspace ([m] = kg)$
+
+$w_0 = \sqrt{D \over m}$
+
+$ω = {2 \pi \over T}$
+
+$ω = {2 \pi f}$
+
+### Auslenkungsfunktion
+
+$y(t)...Auslenkung \thinspace im \thinspace Moment \thinspace (Delta, \thinspace {[y(t)] = m})$
+
+$r_0...Radius \thinspace bzw. \thinspace Amplitude \thinspace ([r_0] = m)$
+
+$\delta...Dämpfungskonstante \thinspace ({[\delta] = {rad \over s}})$
+
+$t...Zeit \thinspace ([t] = s)$
+
+$\varphi_0...Nullphasenwinkel ([\varphi_0] = rad)$
+
+$y(t) = r_0 * e ^{-\delta t} * sin(\sqrt{ω_0^2 - \delta^2} * t + \varphi_0)$
