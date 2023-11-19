@@ -183,7 +183,7 @@ $F = -mω² * y(t)$
 
 $ω ... Winkelgeschwindigkeit \thinspace ({[ω] = {rad \over s}})$
 
-$ω_0...Winkelgeschwindigkeit \thinspace im \thinspace Moment \thinspace t=0 \thinspace i.e. \thinspace Eigenkreisfrequenz ({[w_0] = {rad \over s}})$
+$ω_0...Winkelgeschwindigkeit \thinspace im \thinspace Moment \thinspace t=0 \thinspace i.e. \thinspace Eigenkreisfrequenz \thinspace ({[w_0] = {rad \over s}})$
 
 $D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$ 
 
