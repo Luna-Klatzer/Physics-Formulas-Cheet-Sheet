@@ -187,6 +187,8 @@ $ω ... Winkelgeschwindigkeit \thinspace bzw. \thinspace Kreisfrequenz \thinspac
 
 $ω_0...Winkelgeschwindigkeit \thinspace im \thinspace Moment \thinspace t=0 \thinspace bzw. \thinspace Eigenkreisfrequenz \thinspace ({[w_0] = {rad \over s}})$
 
+$\delta...Dämpfungskonstante \thinspace ({[\delta] = {rad \over s}})$
+
 $D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$ 
 
 $m...Masse \thinspace ([m] = kg)$
@@ -196,6 +198,8 @@ $w_0 = \sqrt{D \over m}$
 $ω = {2 \pi \over T}$
 
 $ω = {2 \pi f}$
+
+$ω = {w_0² - \delta²}$
 
 ### Auslenkungsfunktion
 
