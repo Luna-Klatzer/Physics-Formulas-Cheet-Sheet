@@ -208,3 +208,13 @@ $t...Zeit \thinspace ([t] = s)$
 $\varphi_0...Nullphasenwinkel ([\varphi_0] = rad)$
 
 $y(t) = r_0 * e ^{-\delta t} * sin(\sqrt{ω_0^2 - \delta^2} * t + \varphi_0)$
+
+## Mechanische Wellen
+
+### Ausbreitung einer mechanischen Welle
+
+$v...Ausbreitungsgeschwindigkeit \thinspace ({[v] = {m \over s}})$
+
+$\lambda...Wellenlänge ({[\lambda] = m})$
+
+$v = \lambda * f$
