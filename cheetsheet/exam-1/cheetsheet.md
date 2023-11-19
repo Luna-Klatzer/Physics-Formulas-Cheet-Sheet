@@ -5,6 +5,8 @@
 
 ## Fadenpendel
 
+*Wichtig! Unter 8° verhält sich ein Fadenpendel wie eine harmonische Schwingung. Für Größere wie eine Kreisbahn.*
+
 ### Periodendauer
 
 $T ... Periodendauer \thinspace ({[T]} = s)$
