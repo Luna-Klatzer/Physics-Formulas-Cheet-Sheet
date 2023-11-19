@@ -137,15 +137,21 @@ $\varphi = ω * t$
 
 *Etwas anders als zu den Federpendeln oder Fadenpendels*
 
-$v...Auslenkung \thinspace aus \thinspace Ruhelage \thinspace i.e. \thinspace Amplitude \thinspace ({[v] = m})$
+$r...Auslenkung \thinspace aus \thinspace Ruhelage \thinspace i.e. \thinspace Amplitude \thinspace ({[r] = m})$
 
 $y(t)...Auslenkung \thinspace im \thinspace Moment \thinspace (Delta, \thinspace {[y(t)] = m})$
 
 $\varphi_0...Nullphasenwinkel \thinspace ([\varphi_0] = rad)$
 
-$y(t) = v * sin(ωt + \varphi_0) \thinspace (Mit \thinspace Nullphasenwinkel \thinspace Verschiebung)$
+$y(t) = r * sin(ωt + \varphi_0) \thinspace (Mit \thinspace Nullphasenwinkel \thinspace Verschiebung)$
 
-$y(t) = v * sin(ωt) (Nur \thinspace Weg)$
+$y(t) = r * sin(ωt) (Nur \thinspace Weg)$
+
+### Geschwindigkeit der Auslenkung
+
+$v(t)...Geschwindigkeit \thinspace im \thinspace Moment \thinspace t \thinspace ({[v(t)] = {m \over s}})$
+
+$v(t) = r * ω * cos(ωt)$
 
 ### Beschleunigung der Auslenkung
 
@@ -155,7 +161,7 @@ $F_D...Federkraft \thinspace ([N] = {kg \over s²})$
 
 $D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$ 
 
-$a(t) = -v * ω * sin(ωt)$
+$a(t) = -r * ω * sin(ωt)$
 
 $a(t) = {F_D \over \ m}$
 
