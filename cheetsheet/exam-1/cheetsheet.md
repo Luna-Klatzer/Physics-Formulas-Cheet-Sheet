@@ -83,7 +83,7 @@ $a_y = \bigtriangleup y * \omega²$
 
 ### Kraft
 
-$F...Kraft \thinspace ([N] = {kg \over s²})$
+$F...Kraft \thinspace ([N] = {kg * m \over s²})$
 
 $m...Masse \thinspace ([m] = kg)$
 
@@ -97,13 +97,13 @@ $D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$
 
 ### Federkraft (Hook'sches Gesetz)
 
-$F_D...Federkraft \thinspace ([N] = {kg \over s²})$
+$F_D...Federkraft \thinspace ([N] = {kg * m \over s²})$
 
 $F_D = {-D * \bigtriangleup y}$
 
 ### Gewichtskraft
 
-$F_G...Gewichtskraft \thinspace ([N] = {kg \over s²})$
+$F_G...Gewichtskraft \thinspace ([N] = {kg * m \over s²})$
 
 $m...Masse \thinspace ([m] = kg)$
 
@@ -159,7 +159,7 @@ $v(t) = r * ω * cos(ωt)$
 
 $a(t)...Beschleunigung \thinspace im \thinspace Moment \thinspace t \thinspace ({[a(t)] = {m \over s²}})$
 
-$F_D...Federkraft \thinspace ([N] = {kg \over s²})$
+$F_D...Federkraft \thinspace ([N] = {kg * m \over s²})$
 
 $D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$ 
 
@@ -171,7 +171,7 @@ $a(t) = {-D \over m} * y(t)$
 
 ### Kraft
 
-$F...Kraft \thinspace ([N] = {kg \over s²})$
+$F...Kraft \thinspace ([N] = {kg * m \over s²})$
 
 $m...Masse \thinspace ([m] = kg)$
 
