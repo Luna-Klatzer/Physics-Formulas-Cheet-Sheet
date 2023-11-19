@@ -115,6 +115,8 @@ $F_G = {m * g}$
 
 $T ... Periodendauer \thinspace ({[T]} = s)$
 
+$m...Masse \thinspace ([m] = kg)$
+
 $T = 2 \pi {\sqrt m \over \sqrt D} = 2 \pi {\sqrt {m \over D}}$
 
 ## Harmonische Schwingungen & Kreisbewegung
