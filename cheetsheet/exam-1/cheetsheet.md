@@ -163,7 +163,7 @@ $F_D...Federkraft \thinspace ([N] = {kg * m \over s²})$
 
 $D...Federkonstante \thinspace ([D] = {[F] \over [y]} = {N \over m})$ 
 
-$a(t) = -r * ω * sin(ωt)$
+$a(t) = -r * ω² * sin(ωt)$
 
 $a(t) = {F_D \over \ m}$
 
