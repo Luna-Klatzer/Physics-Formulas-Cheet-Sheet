@@ -223,4 +223,6 @@ $v...Ausbreitungsgeschwindigkeit \thinspace ({[v] = {m \over s}})$
 
 $\lambda...Wellenlänge ({[\lambda] = m})$
 
+$f ... Frequenz \thinspace ({[f] = {1 \over s}} = Hz)$
+
 $v = \lambda * f$
